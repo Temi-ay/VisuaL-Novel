@@ -1,0 +1,64 @@
+{
+  "brand": "Shyvirelle",
+  "title": "After Hours Office",
+  "version": "1.0",
+  "ai_generated": true,
+  "image_count": 6,
+  "locations": 3,
+  "files": [
+    {
+      "file": "images/reception_day.png",
+      "scene": "reception",
+      "lighting": "day",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "040123ac2c5d080d5db15c1ddb5b41921f19db7be330ff64c97265e729be050d"
+    },
+    {
+      "file": "images/reception_night.png",
+      "scene": "reception",
+      "lighting": "night",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "c4ca6a2eac6ad1fe5f1b46da6c5128f5ecb333fe87dc5bf9417fa75e54778181"
+    },
+    {
+      "file": "images/meeting_day.png",
+      "scene": "meeting",
+      "lighting": "day",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "9dad092652c9c2ce5c3513b9e4aa4ee3a550a51e0408de4a50c20b569fc4bf86"
+    },
+    {
+      "file": "images/meeting_night.png",
+      "scene": "meeting",
+      "lighting": "night",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "e35313938eb689dade47d1d9189b98ca53c1ffa1386e266ca048fc655604ca5b"
+    },
+    {
+      "file": "images/manager_day.png",
+      "scene": "manager",
+      "lighting": "day",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "ebbf10aece9a7f5d497984cc693be29ed960934fbab9e2a32bf53b699393cfc4"
+    },
+    {
+      "file": "images/manager_night.png",
+      "scene": "manager",
+      "lighting": "night",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "sha256": "af8e4346c2c24ecf2aadd47c7762efb182026afcec8fefc0ca35a324d0a41999"
+    }
+  ]
+}
